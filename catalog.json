@@ -22,6 +22,11 @@
     "id": "dj1cnpc"
   },
   {
+    "name": "WordGPT",
+    "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/word.sune",
+    "id": "41c6w0o"
+  },
+  {
     "name": "Workflows",
     "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/workflow.sune",
     "id": "2snf99h"
