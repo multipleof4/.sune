@@ -3,6 +3,11 @@
     "folder": ".",
     "sunes": [
       {
+        "name": "1 Click UI Builder",
+        "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/1clickUI.sune",
+        "id": "cvr3v9s"
+      },
+      {
         "name": "AmmunitionGirl",
         "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/ammo.sune",
         "id": "wfez1nx"
