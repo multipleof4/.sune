@@ -115,5 +115,15 @@
         "id": "2snf99h"
       }
     ]
+  },
+  {
+    "folder": "ev",
+    "sunes": [
+      {
+        "name": "4ev Landing",
+        "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/ev/landing.sune",
+        "id": "fsr2nfx"
+      }
+    ]
   }
 ]
