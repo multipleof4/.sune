@@ -120,6 +120,11 @@
     "folder": "ev",
     "sunes": [
       {
+        "name": "Home",
+        "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/ev/home.sune",
+        "id": "svm45nf"
+      },
+      {
         "name": "Landing Page",
         "raw": "https://raw.githubusercontent.com/multipleof4/.sune/main/ev/landing.sune",
         "id": "fsr2nfx"
